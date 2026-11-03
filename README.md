@@ -12,4 +12,4 @@ One landing page for all of Harikrishna Dev's GitHub Pages sites.
 | DC Stamp Hunt | NPS Passport itinerary, Washington DC, Nov 19–22, 2026 | https://harikrishnad1997.github.io/dc-stamp-hunt-trip/ |
 | America 250 Stamps | 46 American Revolution parks checklist, by region & state | https://harikrishnad1997.github.io/America-250-stamps/ |
 
-To add a new site, add a card to `index.html` in this repo.
+**Standing rule:** every new GitHub Pages site created for Harikrishna gets a card added to `index.html` in this repo as part of the same task, then pushed and verified live.
